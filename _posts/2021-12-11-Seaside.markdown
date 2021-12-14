@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Seaside"
+homepage: "https://www.seaside.st"
+category: [Web Development]
+tags: [web, framework]
+description: Seaside is a sophisticated web framework for Smalltalk
+version: [Pharo 7, Pharo 8]
+expression: "
+    Metacello new
+        baseline:'Seaside3';
+        repository: 'github://SeasideSt/Seaside:master/repository';
+        load
+"   
+---
+<img src="https://www.seaside.st/styles/logo-plain.png">
+
+Seaside is a framework for developing sophisticated web applications in Smalltalk.
+
+Visit the <a href="https://github.com/seasidest/seaside">Seaside GitHub</a> page or <a href="https://www.seaside.st">www.seaside.st</a> to get more informations.

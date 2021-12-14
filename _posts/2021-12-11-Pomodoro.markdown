@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Pomodoro"
+homepage: "https://github.com/astares/Pharo-Pomodoro"
+category: [Utilities]
+tags: [tools, utilities]
+description: Pomodoro Timer for Pharo following the Pomodoro Technique
+version: [Pharo 10] 
+icon: "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADL0lEQVQ4y3WTSWwbdRjFfzNj
+z4wdx3az2InTpKFNo6RKDvRAynKp2rRRISKKUA9IILEcekIcOAHqKVJPCCEkLlxYpBaBKCA2
+tYUDkRAKjdQlNBVum8StE9uxE29jz3/Gs3AIiipR3uXTk973Tr8H/6NSo5D8ZOWzd2zPDgLY
+rtAelZMeNo7bUi7c/OjcUme1z1Zs/ZtrP85MT5xMm6IZ8rP3Oufaz7yaGpv+6pEFTrXU8eD8
+2ffeKF55Oae5cqtHg70RhuJJVr9L07awyXi/5n3gDywqZz9/Sd43kt4tsLfy3aVXjs4vFHMj
+mQcGloC657L1wmN0LhY5VqjTHwAF6FFBHUwW+PSPCSW1PyMBZN+a/Vq7tT7bmRoCYYLrsp1b
+I7tyA8eDzgCEZQhJ0NadgkoO48TkpdiHl6cCtXt/ja6dGpsZOXIav1qhZVu0XBdHDmJ6Ego+
+hgceoPUOIj35LIgqrd++mDTXlocDhd9/OR5wkM3cfRQtQqG8SXZjlUajjgSoErg++D4kEoNI
+toUfSyIfmZbrS38+FbDK210hNcja6i0Id3A/n8H2d55kwJHAB2QJNm7Msy8URtVC+N39WKbo
+kouu6qwrEYSok8lnaHjQ9MD0QPhg+jtXeGC5HvW71/BCOvmlBQzRsuS9B/enr5cMloVMUIH2
+4UO4QAsgEiP6+ARSvAupPUawd4BAopvFn86TvX2dxOCBO4G+p4//2q5LVtgJait6DHejgOdJ
+aJKPJnm4TgtLUWgYTco0yDVMDsom4bhWjR5+Zl4OdyRK+snZixXbImFs0ocgkUgQiHdhhmKU
+Slu4tk2qTWfUrzNuF3GFgXXqxQvBSLQpA4y+9ub76x09+XUHyo0G5nYBqVaiO5Uk0deLapSx
+a9sYlk3Jhb8Hhu6oz7/+8S6JQgj1yvffzlw99+6cmrl7ICQhK0CAHfr0fyGSJTzn8BOLe868
+PXf0xNQlXdft3S0IIdTby8uHrl788nR+/vKkWE2PeIYRBtDiHZXo6NhSz+RzP4wfm/p5eHg4
+ret66z9rBGg2m1qtVotWKpU9jWolJsmyG4nFa/F4vBKNRmu6rtsP5/8B8kBudJ3n+60AAAAA
+SUVORK5CYII="
+expression: "
+   LoadableProject new 
+		repository: 'astares/Pharo-Pomodoro'; 
+		baselineName: 'Pomodoro'; 
+		version: 'master';
+		group: #default;
+		load"
+---
+
+Pomodoro Timer for Pharo following the <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro Technique</a>

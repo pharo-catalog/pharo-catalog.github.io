@@ -1,0 +1,23 @@
+---
+layout: null
+---
+{
+    "name": "Pharo Compendium",
+    "description": "Central Pharo projects catalog",    
+    "homepage": "https://pharo-catalog.github.io",
+    "url": "https://pharo-catalog.github.io/catalog.json",       
+    "entries": [
+        {% for entry in site.posts %}
+            {
+                "name": "{{ entry.title }}",
+                "description": "{{ entry.description }}",                              
+                "homepage": "{{ entry.homepage }}",        
+                "url": "{{ site.url }}{{ entry.url }}",
+                "category": "{{ entry.category }}",                                                      
+                "icon": "{{ entry.icon }}",
+                "expression": "{{ entry.expression }}"                
+            }
+            {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ]    
+}
