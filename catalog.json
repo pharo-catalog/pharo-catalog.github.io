@@ -2,7 +2,7 @@
 layout: null
 ---
 {
-    "name": "Pharo Compendium",
+    "name": "Pharo Central Catalog",
     "description": "Central Pharo projects catalog",    
     "homepage": "https://pharo-catalog.github.io",
     "url": "https://pharo-catalog.github.io/catalog.json",       
