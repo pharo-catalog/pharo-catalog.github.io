@@ -14,6 +14,7 @@ expression: "
 		group: #default;
 		load"
 ---
+# P3 - PostgreSQL client
 
 P3 is a modern, lean and mean PostgreSQL client for Pharo (using frontend/backend protocol 3.0)
 
