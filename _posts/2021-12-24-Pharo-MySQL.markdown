@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pharo-ODBC"
+title: "Pharo-MySQL"
 homepage: "https://github.com/pharo-rdbms/Pharo-MySQL"
 category: [Persistency - Databases]
 tags: [tools, database]
