@@ -1,0 +1,20 @@
+---
+layout: post
+title: "P3 - PostgreSQL client"
+homepage: "https://github.com/svenvc/P3"
+category: [Persistency - Databases - SQL]
+tags: [tools, database]
+description: P3 is a modern, lean and mean PostgreSQL client for Pharo.
+version: [Pharo 10]
+expression: "
+   LoadableProject new 
+		repository: 'svenvc/P3'; 
+		baselineName: 'P3'; 
+		version: 'master';
+		group: #default;
+		load"
+---
+
+P3 is a modern, lean and mean PostgreSQL client for Pharo (using frontend/backend protocol 3.0)
+
+Check [https://github.com/svenvc/P3](https://github.com/svenvc/P3)
