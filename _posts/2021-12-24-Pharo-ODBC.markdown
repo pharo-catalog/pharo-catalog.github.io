@@ -2,7 +2,7 @@
 layout: post
 title: "Pharo-ODBC"
 homepage: "https://github.com/pharo-rdbms/Pharo-ODBC"
-category: [Persistency - Databases]
+category: [Persistency - Databases - SQL]
 tags: [tools, database]
 description: Framework for Pharo to access relational databases via ODBC
 version: [Pharo 10]

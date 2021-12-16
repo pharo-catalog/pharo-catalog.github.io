@@ -2,7 +2,7 @@
 layout: post
 title: "GLORP"
 homepage: "https://github.com/pharo-rdbms/glorp"
-category: [Persistency - Frameworks]
+category: [Persistency - ORM Frameworks]
 tags: [tools, database]
 description: Generic Lightweight Object Relational Persistence (GLORP) for Pharo
 version: [Pharo 10]

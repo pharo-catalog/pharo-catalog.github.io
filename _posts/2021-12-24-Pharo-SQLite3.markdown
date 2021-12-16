@@ -2,7 +2,7 @@
 layout: post
 title: "Pharo-SQLite3"
 homepage: "https://github.com/pharo-rdbms/Pharo-SQLite3"
-category: [Persistency - Databases]
+category: [Persistency - Databases - SQL]
 tags: [tools, database]
 description: Database binding to work with SQLite3
 version: [Pharo 10]

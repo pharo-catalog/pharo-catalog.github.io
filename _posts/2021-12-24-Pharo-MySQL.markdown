@@ -2,7 +2,7 @@
 layout: post
 title: "Pharo-MySQL"
 homepage: "https://github.com/pharo-rdbms/Pharo-MySQL"
-category: [Persistency - Databases]
+category: [Persistency - Databases - SQL]
 tags: [tools, database]
 description: Database binding to work with MySQL
 version: [Pharo 10]
