@@ -33,3 +33,9 @@ expression: "
 ---
 
 Pomodoro Timer for Pharo following the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+
+## Screenshot
+![alt text](https://github.com/astares/Pharo-Pomodoro/raw/master/doc/screenshot.png "Screenshot")
+
+## Video
+[![Watch the video](https://img.youtube.com/vi/voSUzOu5feU/hqdefault.jpg)](https://youtu.be/voSUzOu5feU)

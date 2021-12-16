@@ -1,0 +1,20 @@
+---
+layout: post
+title: "XML-XPath"
+homepage: "https://github.com/pharo-contributions/XML-XPath"
+category: [XML]
+tags: [tools, xml, xpath]
+description: An XPath library for Pharo
+version: [Pharo 10]
+expression: "
+   LoadableProject new 
+		repository: 'pharo-contributions/XML-XPath'; 
+		baselineName: 'XPath'; 
+		version: 'master';
+		group: #default;
+		load"
+---
+
+An XPath library for Pharo leveraging the XML parsing capabilities of XMLParser.
+
+Check [https://github.com/pharo-contributions/XML-XPath](https://github.com/pharo-contributions/XML-XPath)
