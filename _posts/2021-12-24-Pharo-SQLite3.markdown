@@ -2,7 +2,7 @@
 layout: post
 title: "Pharo-SQLite3"
 homepage: "https://github.com/pharo-rdbms/Pharo-SQLite3"
-category: [Database]
+category: [Persistency - Databases]
 tags: [tools, database]
 description: Framework for Pharo to access relational databases via ODBC
 version: [Pharo 10]
