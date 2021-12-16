@@ -1,0 +1,20 @@
+---
+layout: post
+title: "GLORP"
+homepage: "https://github.com/pharo-rdbms/glorp"
+category: [Persistency - Frameworks]
+tags: [tools, database]
+description: Generic Lightweight Object Relational Persistence (GLORP) for Pharo
+version: [Pharo 10]
+expression: "
+   LoadableProject new 
+		repository: 'pharo-rdbms/glorp'; 
+		baselineName: 'Glorp'; 
+		version: 'master';
+		group: #default;
+		load"
+---
+
+Generic Lightweight Object Relational Persistence (for Pharo). Glorp is a full-featured Object-Relational Mapper.
+
+Check [https://github.com/pharo-rdbms/glorp](https://github.com/pharo-rdbms/glorp) and [https://glorp.org](https://glorp.org)

@@ -4,7 +4,7 @@ title: "Pharo-SQLite3"
 homepage: "https://github.com/pharo-rdbms/Pharo-SQLite3"
 category: [Persistency - Databases]
 tags: [tools, database]
-description: Framework for Pharo to access relational databases via ODBC
+description: Database binding to work with SQLite3
 version: [Pharo 10]
 expression: "
    LoadableProject new 
