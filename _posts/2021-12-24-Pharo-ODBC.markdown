@@ -15,6 +15,6 @@ expression: "
 		load"
 ---
 
-ODBC framework for Pharo based on Dolphin Smalltalk's Database Connection package. Thanks to <a href="http://www.infoil.com.ar/">InfOil</a> for supporting this project.
+ODBC framework for [Pharo](https://www.pharo.org) based on [Dolphin Smalltalk's](https://github.com/dolphinsmalltalk/Dolphin) Database Connection package. Thanks to [InfOil](http://www.infoil.com.ar) for supporting this project.
 
 Check [https://github.com/pharo-rdbms/Pharo-ODBC](https://github.com/pharo-rdbms/Pharo-ODBC)

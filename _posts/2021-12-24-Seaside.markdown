@@ -17,4 +17,4 @@ expression: "
 
 Seaside is a framework for developing sophisticated web applications in Smalltalk.
 
-Visit the <a href="https://github.com/seasidest/seaside">Seaside GitHub</a> page or <a href="https://www.seaside.st">www.seaside.st</a> to get more informations.
+Visit the [Seaside GitHub project page](https://github.com/seasidest/seaside) or [www.seaside.st](https://www.seaside.st) to get more information.

@@ -32,4 +32,4 @@ expression: "
 		load"
 ---
 
-Pomodoro Timer for Pharo following the <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro Technique</a>
+Pomodoro Timer for Pharo following the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
