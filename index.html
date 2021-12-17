@@ -28,15 +28,15 @@ tagline:
        {% for page in (1..paginator.total_pages) %}          
           {% if page == paginator.page %}
             <li class="page-item active" aria-current="page">
-              <span class="page-link">B{{ page }}</span>
+              <span class="page-link">{{ page }}</span>
             </li>
           {% elsif page == 1 %}
             <li class="page-item">
-              <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">C{{ page }}</a>
+              <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
             </li>  
           {% else %}
             <li class="page-item">              
-              <a class="page-link" href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', page }}">D{{ page }}</a>
+              <a class="page-link" href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a>
             </li>
           {% endif %}
        {% endfor %}
