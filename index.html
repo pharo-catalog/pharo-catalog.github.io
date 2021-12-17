@@ -14,13 +14,16 @@ tagline:
   <nav>
     <ul class="pagination">
        <!-- previous page -->
-      <li class="page-item">
-        {% if paginator.previous_page %}
-          <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-        {% else %}
-          <span>&laquo; Prev</span>
-        {% endif %}
-      </li>
+       {% if paginator.previous_page %}
+          <li class="page-item">
+            <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Previous</a>
+          </li>
+       {% else %}          
+          <li class="page-item active" aria-current="page">
+            <span class="page-link">&laquo; Prev</span>
+          </li>
+       {% endif %}
+
       <!-- list of pages -->
       {% for page in (1..paginator.total_pages) %}
       <li class="page-item">
