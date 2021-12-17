@@ -1,12 +1,19 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
-
+#################################################################################################
+#
+# Site settings
+#
+# Please visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+#
+##################################################################################################
 paginate: 5 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
+
+#*************************************************************************************************
+# GENERAL SETTINGS
+#*************************************************************************************************
 markdown: kramdown
-disqus: antoinevastel
-google_analytics: UA-43580478-4
 future: true
 
 include: [".well-known"]
@@ -16,14 +23,14 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Antoine Vastel Blog
+      title: Pharo Catalog
 
-description: Antoine Vastel Blog
+description: Pharo Catalog
 author:
-  name: Antoine Vastel
-  email: antoine.vastel@gmail.com
-  github: antoinevastel
-  twitter: xopek59
+  name: Pharo Catalog
+  email: noreply@pharo.org
+  github: pharo-catalog
+  twitter: pharoproject
   linkedin: antoinevastel
   bio:  Bot detection engineering manager at Datadome.
   email_md5: 42c0cef4d509eedea70a02b9a4276913
@@ -38,13 +45,14 @@ scholar:
   style: _bibliography/IEEEtran.cls
   bibliography_template: {{reference}}
 
-
-
 # set it as url of an image
 # sidebar_background_image: ...url
 
 BASE_PATH:
 
+#*************************************************************************************************
+# PLUGINS
+#*************************************************************************************************
 plugins:
   - jekyll-paginate
   - 'jekyll/scholar'
