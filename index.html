@@ -20,22 +20,27 @@ tagline:
           </li>
        {% else %}          
           <li class="page-item active" aria-current="page">
-            <span class="page-link">&laquo; Prev</span>
+            <span class="page-link">&laquo; Previous</span>
           </li>
        {% endif %}
 
-      <!-- list of pages -->
-      {% for page in (1..paginator.total_pages) %}
-      <li class="page-item">
-        {% if page == paginator.page %}
-        <span><strong>{{ page }}</strong></span>
-        {% elsif page == 1 %}
-          <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-        {% else %}
-          <a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-        {% endif %}
-      </li>
-      {% endfor %}
+       <!-- list of pages -->
+       {% for page in (1..paginator.total_pages) %}
+          {% if page == paginator.page %}
+            <li class="page-item active" aria-current="page">
+              <span class="page-link">{{ page }}</span>
+            </li>
+          {% elsif page == 1 %}
+            <li class="page-item">
+              <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+            </li>  
+          {% else %}
+            <li class="page-item">
+              <a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+            </li>
+          {% endif %}
+       {% endfor %}
+      
       <!-- next page -->
       <li class="page-item">
         {% if paginator.next_page %}
