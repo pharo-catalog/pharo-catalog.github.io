@@ -7,7 +7,7 @@ tagline:
   <em>The Pharo Catalog is an online catalog for <a href="https://www.pharo.org"></a>Pharo</a> of loadable items defined in <a href="catalog.json">catalog.json</a></em>
   </p>
   <h2>
-    Catalog contents:
+    Catalog contents 1:
   </h2>
 
   {% if paginator.total_pages > 1 %}
@@ -28,19 +28,19 @@ tagline:
        {% for page in (1..paginator.total_pages) %}
           {% if page < paginator.page %}
             <li class="page-item">              
-              <font color="red">{{page}}</font>
+              <font color="red">A{{page}}</font>
             </li>
           {% elsif page == paginator.page %}
             <li class="page-item active" aria-current="page">
-              <span class="page-link">{{ page }}</span>
+              <span class="page-link">B{{ page }}</span>
             </li>
           {% elsif page == 1 %}
             <li class="page-item">
-              <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+              <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">C{{ page }}</a>
             </li>  
           {% else %}
             <li class="page-item">              
-              <a class="page-link" href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.next_page }}">{{ page }}</a>
+              <a class="page-link" href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.next_page }}">D{{ page }}</a>
             </li>
           {% endif %}
        {% endfor %}
