@@ -36,7 +36,7 @@ tagline:
             </li>  
           {% else %}
             <li class="page-item">              
-              <a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+              <a class="page-link" href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.next_page }}">{{ page }}</a>
             </li>
           {% endif %}
        {% endfor %}
