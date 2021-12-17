@@ -26,7 +26,11 @@ tagline:
 
        <!-- list of pages -->
        {% for page in (1..paginator.total_pages) %}
-          {% if page == paginator.page %}
+          {% if page < paginator.page %}
+            <li class="page-item">              
+              <a class="page-link" href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.previous_page }}">{{ page }}</a>
+            </li>
+          {% elseif page == paginator.page %}
             <li class="page-item active" aria-current="page">
               <span class="page-link">{{ page }}</span>
             </li>
