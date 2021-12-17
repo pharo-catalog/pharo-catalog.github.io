@@ -41,14 +41,17 @@ tagline:
           {% endif %}
        {% endfor %}
       
-      <!-- next page -->
-      <li class="page-item">
+        <!-- next page -->
         {% if paginator.next_page %}
-          <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+          <li class="page-item">
+            <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+          </li>
         {% else %}
-          <span>Next &raquo;</span>
+          <li class="page-item disabled" aria-current="page">
+            <span class="page-link">Next &raquo;</span>
+          </li>
         {% endif %}
-      <li>
+       
     </ul>
   </nav>
 
