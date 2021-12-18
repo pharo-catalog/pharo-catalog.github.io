@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Atomic"
+homepage: "https://github.com/grpistoia/Atomic"
+category: [Games]
+tags: [game, fun]
+description: Atomic v3: Pharo game
+version: [Pharo 10]
+expression: "
+   LoadableProject new 
+		repository: 'grpistoia/Atomic'; 
+		baselineName: '...'; 
+		version: 'master';
+		group: #default;
+		load"
+---
+
+Atomic v3: Pharo game. The goal of this game is to build a molecule using the given atoms.
+
+Check [https://github.com/grpistoia/Atomic](https://github.com/grpistoia/Atomic) 
