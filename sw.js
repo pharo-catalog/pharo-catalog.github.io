@@ -14,7 +14,7 @@
         return caches.open(version + staticCacheName)
             .then(function (cache) {
                 return cache.addAll([
-                    '/assets/main.css',
+                    '/assets/css/main.css',
                 ]);
             });
     };
