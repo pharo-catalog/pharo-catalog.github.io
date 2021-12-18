@@ -4,7 +4,7 @@ title: "Atomic"
 homepage: "https://github.com/grpistoia/Atomic"
 category: [Games]
 tags: [game, fun]
-description: Atomic v3: Pharo game
+description: Atomic v3 - Pharo game
 version: [Pharo 10]
 expression: "
    LoadableProject new 
