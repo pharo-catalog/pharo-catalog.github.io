@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GLORP"
+title: "Mathemagics"
 homepage: "https://github.com/grpistoia/Mathemagics"
 category: [Mathematics - Frameworks]
 tags: [tools, framework, math]
