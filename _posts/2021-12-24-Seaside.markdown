@@ -6,6 +6,16 @@ category: [Web Development]
 tags: [web, framework]
 description: Seaside is a sophisticated web framework for Smalltalk
 version: [Pharo 7, Pharo 8]
+icon: "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABuElEQVR4XrWTTUhUYRSGnztT
+Ey1qiEKGGEuwTVOQSdQ0EGXQuhFaaCT4h1QIWgsT28wQNORGhalc1EJUsFYtXYWJmxYxE21a
+CBO0adLEzV2IMqd3xhv4N4MKHXg43O9+73u/c75z+S9xI0TcmrG2Gvr2ZZC8SNo6seUm3GMB
+Tu7d4JIMejHrwz40MKcl59+7IFRFofGoclmDRNFgUAZPhHLiLK8TZ0h/ucx8PoT9OIj1wGhZ
+g+EYE/ZW4sdiQoyIF9haC7ZYi30L4Ebg5ubGVRNPXCWd7WK+JJgSTz1x8TR3sUI3thTF7sDA
+JnGulV/2SJueeYK0l9UDaxVt68+r/VjyMO839qQUM7fJ2kOvZh3VUiIpHogm0SNeYm4cCzvU
+71h33XGuD11hMnePfMlk3OtBat14TXOx2o69C5DddoIt4WQb1YcxCTvEKzEqsUr8rQbmT2Ht
+8LziHHy6RaZUgmahcB/7fI7cQgT7cwH7eQT76uCG4XxZg5lrMlDtBV3bmxqmteQvCvTl1KxD
+vjgH265xY3ysJ7MSw+ZOkwv6CG0tURyoWML4CWa/B3GrfdTt94f0i0O72fgXMTvdIG+xuokA
+AAAASUVORK5CYII="
 expression: "
     Metacello new
         baseline:'Seaside3';
