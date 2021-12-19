@@ -8,7 +8,7 @@
         
             {
                 "name": "Pharo Development List (pharo-dev@lists.pharo.org) Mail archive",
-                "description": "Mail archive of Pharo Development Mailinglist",                              
+                "description": "Archive of Pharo Development Mailinglist",                              
                 "homepage": "https://lists.pharo.org",        
                 "url": "https://lists.pharo.org/empathy/list/pharo-dev.lists.pharo.org",
                 "category": "Mail Archive",                                                      
@@ -27,8 +27,8 @@
                 "expression": "WebBrowser openOn: 'https://lists.pharo.org/empathy/list/pharo-dev.lists.pharo.org'"
             },
             {
-                "name": "Pharo Users List (pharo-dev@lists.pharo.org) Mail archive",
-                "description": "Mail archive of Pharo Development Mailinglist",                                                          
+                "name": "Pharo Users List (pharo-users@lists.pharo.org) Mail archive",
+                "description": "Archive of Pharo User Mailinglist",                                                          
                 "homepage": "https://lists.pharo.org",        
                 "url": "https://lists.pharo.org/empathy/list/pharo-users.lists.pharo.org",
                 "category": "Mail Archive",                                                      
