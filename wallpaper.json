@@ -12,24 +12,22 @@
                 "homepage": "https://www.pharo.org",        
                 "url": "https://spotlight.it-notes.ru/wp-content/uploads/2017/08/02c48424be88ee36d5300ad89033fd82.jpg",
                 "category": "Wallpaper",                                                      
-                "icon": "iVBORw0KGgoAAAANSUhEUgAAABwAAAAQCAIAAACKrYi4AAAACXBIWXMAAAsTAAALEwEAmpwY
-                AAADc0lEQVQ4jWXTTW9VVRgF4LXevff5uLe0tS1tgUaIisSvMGPgwIlhbhwYo7/Iv2EcOHLg
-                jOiIaIwm6kRCEFHEgBRoaS/365yz97scQKKG9QOerMFatO2PBTIklBkOvuKJiz79xap1lIUg
-                Wu3dfSjb5rtYOYeYNN5VbAFhepvrr0mCBEAuQhCgYiIRIiyo3sDWZWiARe/ue5kgz+BLhjGr
-                k7SI4xvMC1UtU9x79Pne4WcBM8SIqmHVsG5YNagqpDqinyE1gjg8xvQ6ypTeAQYQFiGx2mBa
-                1eS6dt7RaItUyJO7j499MolnO45HACURkkSXPAez08gDUcRISItbhCO08gG+gDJUMDqD8+/j
-                5HmN11G3+OuKH/wIuSnr9CXESDMEgxnMGEJUXsAGeEdLqDc4fgv5IcqCYazcS26jPVx4z9MK
-                jbAIEiGw2dR8H1VrkSU1cEEOAS6VIZDbgCiQgA8IY6VdhrGWd6zZZbPD8Q7nR1jbgwEQCWy/
-                iQc/Y/EQea69t9WsIkarKhAgYSFKSyrKBygJJosMSaHFiUueH1EJOWrjDKb7CImpUd0iNChL
-                APAedKKHJcWAkJQzpAhkuYACL2BkKfCM0iNUiLuoalVjzQ9ZlhivoW1honr1UwB46bJWt9Ev
-                lYyJDFGxhTxSg1CAIDhQgEAElCAVeI/ScVgizeSrbBpFw6ipuqMeRYA2z2F5iOWCGmN9JZQn
-                vHZFt7+PRheerRYy0aVCBHihB3hxL5CTEgAUaLtc/8IXhwBWa9RrtbdWjv6cff3p8Me3KgOA
-                +MbZV0A+3ZrnPAy5lFKKD67sGIr36oecc174/FiH93gn5eMbT1+UHtxq5/cPbn4zffAb/g3j
-                qc21lJKFmOqmrqqmrpq6NjJ3y8V0NptM+kXnpeRSuuKTPk+Gfhov/r1/FcDk5neP5ncB/VcE
-                EC9UhwQppiEGNywpwEJIMaRRVW81FkbuoHtTx1M7L4xH1ZN598EnVwGc32yvzfl/VADiR6cP
-                TrTWNKGuY6xiVYVUx1CnOKqsHtgQKSkEGUNN2ZEX//3u5CnweLEPOJ5L/PDLmy83NpGqgNdX
-                UAecrPHiyM6OOQR58p8W/uqaOqInt1odDKzCs2qbubv3PAlEq9dui8Fo4A9LcyemoT42AoQE
-                NyNppIUQUoq0MO2WwK8AHucG6J5H/wHtMexEF4oBtgAAAABJRU5ErkJggg==",
+                "icon": "iVBORw0KGgoAAAANSUhEUgAAABcAAAAQCAIAAAByTXNPAAAACXBIWXMAAAsTAAALEwEAmpwY
+                AAADDUlEQVQ4jS2SPW9cRRiFz/vOzJ179yZr4/UXZJVYWAaBgtKloKBB6REFFTUl/4P/QUGF
+                RInoIiSkSEADsoIJCkEOtmOv7WV379fMeyicUz3NeZpzRLY/FxeQl7j4QW4/sMVvWqwjNwRF
+                o3UnYNLJx7i1Bx9Y79JXALF4LuvvkQQJQOE81DFuYPMROEC9dSeW50hLWCuulmJL1OP6qaSG
+                RSXBT8+/mc6+dljCexSlFKVH7gjKcInFIfJCrAMUEKgHKcWGhDHnh9z5iKNNEbo0P768tvnc
+                3+ukHgFC0olMBZniBWTzTGBwFW2ANWACM0Z3cPAptg5YryNW+Od7u/gZNGXiWw/hvah6pCWs
+                Ew2IG1J/gPQKuRFXM/Wk6WiKdz+xcEtUoB4icE7KCVenKCr1kkMJoxPdFUIEsAGuZtgVV7N9
+                oeWulDtS78jqCmtTKACKANv3cfYrmldIK04/ZDmG9x5saQMYCKV6cYGuwu2Hls6FAclz4w4W
+                p3BBQslYwZXILQBYDzFBDw2eNgAZliFecoYl5B6ugN9FEVnUXM0kt6jXUFVQCnv2CwB4+xHH
+                2+hbBvVgDzjCgAw4gUN2ZIb1yJ0MLcKSNpaypFeMyqK76pEJcLKHdoa2EdZexQgCBJViZBY4
+                WBZzsGyWQRMhASCD2/nwW2tmAMYRcS1apfnqb39/b/9mc0tpGFLOOWcbjMkwZOvZDyml1Njq
+                mrOX8iKk66c3fw1nz6rVycXRj4uzP/3dnYk6H2IZi6KMRRmjiqSubRbL5XzeN53lnHLuss37
+                NB/6hX/w7+ljAPOjn85XxwAB+H05E0oYvDNFKwTUueBdGBVxs1Q3MoOYldG/ufNGPSr+W3Wf
+                ffUYwMGk+n0lry1f7M/K0sXofeGLwoXoXQx+VGgcpBSEQOeo4qJQryzbX8dzAAAum1PAbth/
+                +d3RnCwc3r+F6LAVcXek92oZHC3YL429s8ZO0ItsVrwYpHC8aU5S9xKv459z7FQU8qRVM8HC
+                xWsVQEDCVEVERdQ5F4IXdYuuBf4AcJlKoLux/A9qaq6OZntB6QAAAABJRU5ErkJggg==",
                 "expression": "World backgroundImage: (ZnEasy getJpeg: 'https://spotlight.it-notes.ru/wp-content/uploads/2017/08/02c48424be88ee36d5300ad89033fd82.jpg') layout: #scaled"   
             },
             {
@@ -38,23 +36,23 @@
                 "homepage": "https://www.pharo.org",        
                 "url": "https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
                 "category": "Wallpaper",                                                      
-                "icon": "iVBORw0KGgoAAAANSUhEUgAAABcAAAAQCAIAAAByTXNPAAAACXBIWXMAAAsTAAALEwEAmpwY
-                AAADHElEQVQ4jTXTy25bVRQG4LXW3sfHdi52SCBqRNOWAU/AAIkZz8WLMEbMEBICwYSKa6Go
-                RZS0jVCgaZMmdZPYDo5z7L33ujGwWQ/waenX/+NHH08REQDAAQHdwd3dwQzMTdVZjVWLSBZh
-                lsSllFxKZk6SGy5zzk3c3mgTIAAgAC49cANzUHUxYzEWy6KFtYgkllTKvKScY07EOZQWxu1+
-                IAREJAQEQAB3cAM1UAVWEnEWKxKKaOGQOSYOs0wp47wFKXmqNL7Vx0BABLR8A9zAlgSIADOy
-                EAuwQGEo4qmEVFezrPOKZ62SqipurXsIEAiW4fxPqIIIsoCwFzZmY7FcNBderTxXlqLPg88C
-                zMljvy4hEgVaZGILRVzVVYzZmFTICimjHp7+8/fh/vvvfcgoBXOC2RxmM5jFPh8R1OgVYgAg
-                czBzNVM1VRMVMRVTNi4mZMPGtG9H6pohZ0gJmg5cx/azL7HVxaoDoQKMCNEd3NwURI3FRIxZ
-                WbwS7c4JJK5O9jMLcPGcJc3DvIl3751T1aWqqxhDiI7BgQzRkQzQHIGCmpsHo/aLxqbeeTJc
-                mzTXiYVzytIZnF7i4z9PQwgxBFNXBxZIWQvbcDx6+Mcvxycvnx0edFd6G72Nq6uLul6zznZs
-                jtt1uBhPb9288/ivp8PBfizUjyFgRGphTbgerBQenF8Ozk/iyubqm1W3wdHZ85cv9iLCrBnV
-                JOrkXt7eufX7w/3RxUnsrOPBwSQQOpA6gqM5mMGiyg5uDqOpnf3LP37/2YNfv7ocPU/NVXM9
-                qwLOZ816b22tt5FZcG9vhISIGIgIFweISMsWEhuak1kYN/7zk5Nvf/rm/NGnFJxi/c72BrVa
-                qWhUB1AABHVfMODLVTkgAJqjA7J4YTt++rUN7q52qNPtffDuZlY4maR6dSUOrw0AHcAcEWwx
-                a3BHQHMfj4eTyehy9Ho0fD08P3hw/4sbN3a3NnfWahtNBmcXrybSA4S4f/RKRApnBCQMporg
-                iLFVdR7d//y3Hz7Z2bnT29pNqdTt7u2bu+OpzHhUvyFDjta+vXfvu+n1/D9AlmKEl5y1iQAA
-                AABJRU5ErkJggg==",
+                "icon": "iVBORw0KGgoAAAANSUhEUgAAABgAAAAQCAIAAACDRijCAAAACXBIWXMAAAsTAAALEwEAmpwY
+                AAADNklEQVQ4jUWTW2+UZRSF197v+820A9MOVCmKeCDGRH+DP817f4PxH3inCR5iuDDRIOgF
+                rVAVhLSFlhYrc+rM973vPnkxRJOVnXX1ZGfvteiTz+YgIgABAkUgIgByD/cwD3UXczET1apa
+                RUqtVWqVorXTupTaSl3m7UtrDAIAgIkAEBCBCJiFeai5qFfzKiZqVbUVLbW0tdSSS0lSUi2U
+                t0eJCUTEBMIrpDvcYQYziIVqVDORVM2q5CLaSWpL6gp1HXVdlJ7nKyNiRiIwAwACEQiHGdSg
+                FqJQIbEkAlFURRUukrp+0xZb9rTt1a7N+bWNSAmJV4cKxP+7mEGVRELURXw1u1KtgaiXxrsc
+                XY5lQpeQR/3KmRMzMQGIV6BwDdXQ5MJuySq7sFXovbvfb11+/e3rHwhJpdJR22G5xCKP5IDR
+                J26IE8ARWD3L3N1dzdRXUnEtVj1b17285AcKKygFbcFyHed57fFX1BtQsw5uQA1RiiB4uMM8
+                VF3UVV3Fq3qj2vMed4sL071ShaRGrda1qVvmWz/9zc06NwOjJnEGpwAbCERBbIGgBEpi5sic
+                hyfT2ebG9Z3Tybxtq2itper66cmMfts5SpxyTm5hATN01Wv1+WJx+Gz/519/fH50WC3Azdbo
+                0nh80l8f9S5ek5cPLg43T8/GN965sbN3/+z577nwqEkJiVJDPaZ+9jCbzLrHh49m7XLr2ocz
+                H56/OBqfPnn61x1X9egu9NP5omuyv3Xtxt07ey/PnvYGI3r4cJqYgtidIsgD4as8gQnm3lac
+                zXT/+OzWt5//8eD2cn5SRZezSa/XW84nG6PRcPNyEaHd3X+IiYiYmWllQa+yTgGyYA8yZzU+
+                ntjN27v3fv16/PAb5mjWhu9d2aSmqRrZAjCAwBFMICbEf1UhByEoQO4o6qU9P77/JV7cHvTT
+                5a3tj9/fmHQ4nrb9wVo+O3cCORCxaixFECJWrCq6/+R+0xscP3u0WEz3dr47evbn9tV3h1tv
+                XB2lg9PD8eTFpG6CkfcOjtVUaglQpuRuEUHgJq9Px0c3v/iUbLz95ke5v+Fma8MrWxv789Yb
+                nQ5Sm/NQmuu7v/wwX3T/AqXQfFRt/zpvAAAAAElFTkSuQmCC",
                 "expression": "World backgroundImage: (ZnEasy getJpeg: 'https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') layout: #scaled"   
             },
             {
