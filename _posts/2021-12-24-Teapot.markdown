@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Teapot"
+homepage: "https://github.com/zeroflag/Teapot"
+category: [Web Development]
+tags: [web, framework]
+description: Teapot is micro web framework for Pharo Smalltalk on top of the Zinc HTTP components
+version: [Pharo 10]
+expression: "
+   LoadableProject new 
+		repository: 'zeroflag/Teapot'; 
+		baselineName: 'Teapot'; 
+		version: 'master';
+		group: #default;
+		load"
+---
+
+Teapot is micro web framework for Pharo Smalltalk on top of the Zinc HTTP components, that focuses on simplicity and ease of use. It's around 600 lines of code, not counting the tests.
+
+Check [https://github.com/zeroflag/Teapot](https://github.com/zeroflag/Teapot) 
