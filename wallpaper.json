@@ -10,10 +10,19 @@
                 "description": "Lighthouse at night",                              
                 "homepage": "https://github.com/pharo-catalog/pharo-catalog.github.io",        
                 "url": "https://spotlight.it-notes.ru/wp-content/uploads/2017/08/02c48424be88ee36d5300ad89033fd82.jpg",
-                "category": "XML",                                                      
+                "category": "Wallpaper",                                                      
                 "icon": "",
                 "expression": "World backgroundImage: (ZnEasy getJpeg: 'https://spotlight.it-notes.ru/wp-content/uploads/2017/08/02c48424be88ee36d5300ad89033fd82.jpg') layout: #scaled"   
-            }
+            },
+            {
+                "name": "Lighthouse 2",
+                "description": "Lighthouse at night",                              
+                "homepage": "https://github.com/pharo-catalog/pharo-catalog.github.io",        
+                "url": "https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+                "category": "Wallpaper",                                                      
+                "icon": "",
+                "expression": "World backgroundImage: (ZnEasy getJpeg: 'https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') layout: #scaled"   
+            },
              
         
     ]    
