@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Teapot"
-homepage: "https://github.com/zeroflag/Teapot"
+title: "Tealight"
+homepage: "https://github.com/astares/Tealight"
 category: [Web Development]
 tags: [web, framework]
-description: Teapot is micro web framework for Pharo Smalltalk on top of the Zinc HTTP components
+description: Tealight - extensions to ease working with Teapot framework
 version: [Pharo 10]
 icon: "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0
 RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAANPSURBVBgZBcHdT1tlAMDh3zlt
@@ -26,13 +26,13 @@ sbGBpmm0trbS1NSEI5zS3qM95ubmHitSSgAA2tvbfY399eOhx5GPmxubq7UqTVFQeKCsllyf
 u90pus4qKFiW5WYymbyu61f/B/q4pKqmYKY6AAAAAElFTkSuQmCC"
 expression: "
    LoadableProject new 
-		repository: 'zeroflag/Teapot'; 
-		baselineName: 'Teapot'; 
+		repository: 'astares/Tealight'; 
+		baselineName: 'Tealight'; 
 		version: 'master';
 		group: #default;
 		load"
 ---
 
-Teapot is micro web framework for Pharo Smalltalk on top of the Zinc HTTP components, that focuses on simplicity and ease of use. It's around 600 lines of code, not counting the tests.
+Tealight is a project defining a few extensions to the Teapot framework to make the (tea) time you spend with the Pharo Teapot system even easier.
 
-Check [https://github.com/zeroflag/Teapot](https://github.com/zeroflag/Teapot) 
+Check [https://github.com/astares/Tealight](https://github.com/astares/Tealight) 
