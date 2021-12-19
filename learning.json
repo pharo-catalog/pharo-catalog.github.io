@@ -22,7 +22,7 @@
                 jz5WOA2YD1BMU+BBSYVUvNpxkXuIuWgbsOxTHrG3UHIFWIhsgXtQQpTizNBS5jXZQkhkcywZ
                 qQQlAjdRwiml7wU5xWLaL1AvZa8WIjALzIRZ7YVWDW5CiIj48Z8F2pYLl1ZR0+AuzEX0UX03
                 5mxIkLq0dhDw5vXL97fr5O3rfwQHJhPx4uuH57f2AL8BfPrVlrs6xwsAAAAASUVORK5CYII=",
-                "expression": "World backgroundImage: (ZnEasy getJpeg: 'https://spotlight.it-notes.ru/wp-content/uploads/2017/08/02c48424be88ee36d5300ad89033fd82.jpg') layout: #scaled"   
+                "expression": "WebBrowser openOn: 'https://github.com/SquareBracketAssociates/PharoByExample9'"
             }
     ]    
 }
