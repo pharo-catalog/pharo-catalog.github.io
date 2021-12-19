@@ -10,7 +10,7 @@ expression: "
    LoadableProject new 
 		repository: 'astares/Pharo-CodeFonts'; 
 		baselineName: 'CodeFonts'; 
-		version: 'master';
+		version: 'main';
 		group: #default;
 		load.
 	StandardFonts codeFont: (LogicalFont familyName: 'JetBrains Mono' pointSize: 10)"
