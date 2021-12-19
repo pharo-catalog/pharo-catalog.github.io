@@ -1,6 +1,7 @@
 {
     "name": "Pharo Wallpaper Catalog",
-    "description": "Wallpapers",    
+    "description": "Wallpapers",
+    "category": "Official Catalog",
     "homepage": "https://pharo-catalog.github.io",
     "url": "https://pharo-catalog.github.io/wallpaper.json",       
     "entries": [

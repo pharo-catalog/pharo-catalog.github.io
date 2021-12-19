@@ -1,6 +1,7 @@
 {
     "name": "Pharo Learning Material Catalog",
-    "description": "Learning Material",    
+    "description": "Learning Material",
+    "category": "Official Catalog",    
     "homepage": "https://www.pharo.org",
     "url": "https://pharo-catalog.github.io/learning.json",       
     "entries": [
