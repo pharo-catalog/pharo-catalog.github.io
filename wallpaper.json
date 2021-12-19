@@ -59,7 +59,7 @@
                 "name": "Seaside",
                 "description": "A day at the beach",                              
                 "homepage": "http://www.seaside.st",        
-                "url": "",
+                "url": "https://images.pexels.com/photos/210205/pexels-photo-210205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
                 "category": "Wallpaper",                                                      
                 "icon": "iVBORw0KGgoAAAANSUhEUgAAABgAAAAQCAIAAACDRijCAAAACXBIWXMAAAsTAAALEwEAmpwY
                 AAADpklEQVQ4jQXB2W5bRRgA4NnPbvt4SeK4SUq60aosQlxwUXHDW/As3PMqPAYSqqCLEFUr
@@ -81,6 +81,19 @@
                 2pLocRZIFxHK6bpdXzXYQtQmMgsxEZ6Ra7Vk2seEotYE43AhIGGYEkwxYOydRw4IBAIBB0DU
                 Y+pQCqRHmAok4oBQ8HLrPCGM/w/tvT3JbdadKAAAAABJRU5ErkJggg==",
                 "expression": "World backgroundImage: (ZnEasy getJpeg: 'https://images.pexels.com/photos/210205/pexels-photo-210205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') layout: #scaled"   
+            },
+            {
+                "name": "Moon",
+                "description": "Moon background",                              
+                "homepage": "http://www.pharo.org",        
+                "url": "https://images.pexels.com/photos/1936752/pexels-photo-1936752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+                "category": "Wallpaper",                                                      
+                "icon": "iVBORw0KGgoAAAANSUhEUgAAABgAAAAQCAIAAACDRijCAAAACXBIWXMAAAsTAAALEwEAmpwY
+                AAAAnUlEQVQ4jWNgGLaAmXilQjzMWtLsnKwMX37+//efXINkhDmCzXjYmf6K8TGrSbLdffkH
+                zSxiDbJS52Zj+sXJzqImJyTKz/b8/a83n/8iK2Ai0qAPn3/8/8/AzMT46ct3UUE+Lg5WNAXE
+                GnT5ya+vPxm+/vj9n4HhyZvvVx9/Q1PASKRBDAwMnGxM2rLcf/7+u/r42++/GKE9CkYyAABd
+                bDMgXLpGfwAAAABJRU5ErkJggg==",
+                "expression": "World backgroundImage: (ZnEasy getJpeg: 'https://images.pexels.com/photos/1936752/pexels-photo-1936752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') layout: #scaled"   
             }
     ]    
 }
