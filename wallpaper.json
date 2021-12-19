@@ -8,7 +8,7 @@
             {
                 "name": "Lighthouse 1",
                 "description": "Lighthouse at night",                              
-                "homepage": "https://github.com/pharo-catalog/pharo-catalog.github.io",        
+                "homepage": "https://www.pharo.org",        
                 "url": "https://spotlight.it-notes.ru/wp-content/uploads/2017/08/02c48424be88ee36d5300ad89033fd82.jpg",
                 "category": "Wallpaper",                                                      
                 "icon": "",
@@ -16,14 +16,21 @@
             },
             {
                 "name": "Lighthouse 2",
-                "description": "Lighthouse at night",                              
-                "homepage": "https://github.com/pharo-catalog/pharo-catalog.github.io",        
+                "description": "Lighthouse at day",                              
+                "homepage": "https://www.pharo.org",        
                 "url": "https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
                 "category": "Wallpaper",                                                      
                 "icon": "",
                 "expression": "World backgroundImage: (ZnEasy getJpeg: 'https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') layout: #scaled"   
             },
-             
-        
+            {
+                "name": "Seaside",
+                "description": "A day at the beach",                              
+                "homepage": "http://www.seaside.st",        
+                "url": "https://images.unsplash.com/photo-1476673160081-cf065607f449?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
+                "category": "Wallpaper",                                                      
+                "icon": "",
+                "expression": "World backgroundImage: (ZnEasy getJpeg: 'https://images.unsplash.com/photo-1476673160081-cf065607f449?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80') layout: #scaled"   
+            }
     ]    
 }
