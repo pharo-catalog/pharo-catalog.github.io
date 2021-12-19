@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pharo-CodeFonts Hack"
+title: "CodeFonts Hack"
 homepage: "https://github.com/astares/Pharo-CodeFonts"
 category: [Fonts]
 tags: [font, ui]
@@ -11,7 +11,7 @@ expression: "
 		repository: 'astares/Pharo-CodeFonts'; 
 		baselineName: 'CodeFonts'; 
 		version: 'main';
-		group: #default;
+		group: 'Hack';
 		load.
 	StandardFonts codeFont: (LogicalFont familyName: 'Hack' pointSize: 10)"
 ---
