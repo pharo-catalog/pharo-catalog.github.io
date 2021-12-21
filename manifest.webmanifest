@@ -3,12 +3,12 @@
     "name": "An online catalog for Pharo",
     "icons": [
         {
-            "src": "/images/icons-128.png",
+            "src": "/assets/images/icons-128.png",
             "type": "image/png",
             "sizes": "128x128"
         },
         {
-            "src": "/images/icons-192.png",
+            "src": "/assets/images/icons-192.png",
             "type": "image/png",
             "sizes": "192x192"
         }
