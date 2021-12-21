@@ -4,8 +4,7 @@
     "category": "Official Catalog",    
     "homepage": "https://www.pharo.org",
     "url": "https://pharo-catalog.github.io/learning.json",       
-    "entries": [
-        
+    "entries": [        
             {
                 "name": "Pharo Development List (pharo-dev@lists.pharo.org) Mail archive",
                 "description": "Archive of Pharo Development Mailinglist",                              
