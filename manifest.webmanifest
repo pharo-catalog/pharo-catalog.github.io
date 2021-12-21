@@ -1,18 +1,30 @@
 {
     "short_name": "Pharo Catalog",
-    "name": "An online catalog for Pharo",
+    "name": "An online catalog for Pharo",    
     "icons": [
         {
-            "src": "/assets/images/icons-128.png",
-            "type": "image/png",
-            "sizes": "128x128"
+            "src": "/assets/images/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
         },
         {
-            "src": "/assets/images/icons-192.png",
+            "src": "/assets/images/android-chrome-512x512.png",
+            "sizes": "512x512",
             "type": "image/png",
-            "sizes": "192x192"
+        },
+        {
+          "src": "/assets/images/android-chrome-maskable-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "maskable"
+        },
+        {
+          "src": "/assets/images/android-chrome-maskable-512x512.png",
+          "sizes": "512x512",
+          "type": "image/png",
+          "purpose": "maskable"
         }
-    ],
+      ], 
     "start_url": "/index.html",
     "background_color": "#3367D6",
     "display": "standalone",
