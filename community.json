@@ -51,7 +51,7 @@
                 "description": "Concerning Pharo blog",                              
                 "homepage": "https://medium.com/concerning-pharo",        
                 "url": "https://medium.com/concerning-pharo",
-                "category": "Book",                                                      
+                "category": "Blog",                                                      
                 "icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0
                 RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAChSURBVCjPpZExCgIxEEVfZI/j
                 GWy8gFewX6w9h7C1V1iwXRsvYCN4DUEEJ3HzLbIRF4zNZsq8/+bDOPH/zZgKVABHASzdVj0v
@@ -65,7 +65,7 @@
                 "description": "The Pharo Dev blog",                              
                 "homepage": "https://thepharo.dev/",        
                 "url": "https://thepharo.dev/",
-                "category": "Book",                                                      
+                "category": "Blog",                                                      
                 "icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0
                 RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAChSURBVCjPpZExCgIxEEVfZI/j
                 GWy8gFewX6w9h7C1V1iwXRsvYCN4DUEEJ3HzLbIRF4zNZsq8/+bDOPH/zZgKVABHASzdVj0v
@@ -79,7 +79,7 @@
                 "description": "Concerning Pharo blog",                              
                 "homepage": "https://discord.gg/QewZMZa",        
                 "url": "https://discord.gg/QewZMZa",
-                "category": "Book",                                                      
+                "category": "Chat",                                                      
                 "icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1B
                 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHOSURBVDhPlZO/S1xBEMe/+95T1NyR
                 SvFHo2iraAQDHoJIQLAWTO0PbEQQbP0bBEFQcqbVgAhaiCLYnI1FuEMtLAWJJvgDwgnqeW/X
