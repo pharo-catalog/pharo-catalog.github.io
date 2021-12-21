@@ -73,6 +73,25 @@
                 cSMgGdqyIZVcDIbUJBDqR+6QgFPJAGcA5spZz32A3eRrvgFwMGHf7+AlJwAAAABJRU5ErkJg
                 gg==",
                 "expression": "WebBrowser openOn: 'https://thepharo.dev/'"
+            },
+            {
+                "name": "Pharo Discord Server",
+                "description": "Concerning Pharo blog",                              
+                "homepage": "https://discord.gg/QewZMZa",        
+                "url": "https://discord.gg/QewZMZa",
+                "category": "Book",                                                      
+                "icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1B
+                AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHOSURBVDhPlZO/S1xBEMe/+95T1NyR
+                SvFHo2iraAQDHoJIQLAWTO0PbEQQbP0bBEFQcqbVgAhaiCLYnI1FuEMtLAWJJvgDwgnqeW/X
+                +e6+81cULx9YmJmdmd2Z2VV4wdfBqzbjhaOA6gFMvbOqI5G3lfbnl77H0s7meEjQP6HL/Wx2
+                RikMifmfxA4jYCGMx8eXp71rWqwjg4Or7KaoXdTfx6TysXgvk3hUeXLxwUR1uRiRWDP88KeI
+                9jaBD7Q2B6iq9JDey9OETy0B/pxpZPbzyIfWJEgxod+uBob/zimlpGmOsaEyJD6XRNpzdnbv
+                MLtwE2m2I/NSArvtqKvx0NnxejBJyB59HlE9njF30aicAws5v9RYXLnFbc7YtSQybdyjTwHG
+                ekoFkQo01rvsmYMQaxs5HP/Sdq2KnNl3xRd8CGNZgjwSR+yDG393ZwmmJivQ1ODbRbk74U4u
+                +DjUkSQw25GGtJyiNXB2oXH6W+PgMLSLMkvgXlom8Yi8zpdjrK320CZjW9/KcVAW7vR9KbXB
+                J5LMEY2Roozym4xy2NqLREaY/JH8OGI7wrctppTdKQqTcjFgEwG+ab5tZrVXexN+JpMs/ANa
+                nrbU8n/fGbgH1lfRg7l8GUUAAAAASUVORK5CYII=",
+                "expression": "WebBrowser openOn: 'https://discord.gg/QewZMZa'"
             }             
     ]    
 }
