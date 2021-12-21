@@ -1,6 +1,6 @@
 {
-    "name": "Pharo Learning Material",
-    "description": "Learning Material",
+    "name": "Pharo Community Resources",
+    "description": "Sites used by Pharo community",
     "category": "Official Catalog",    
     "homepage": "https://www.pharo.org",
     "url": "https://pharo-catalog.github.io/learning.json",       
@@ -75,7 +75,7 @@
                 "expression": "WebBrowser openOn: 'https://thepharo.dev/'"
             },
             {
-                "name": "Pharo Discord Server",
+                "name": "Pharo Chat on Discord Server",
                 "description": "Concerning Pharo blog",                              
                 "homepage": "https://discord.gg/QewZMZa",        
                 "url": "https://discord.gg/QewZMZa",
