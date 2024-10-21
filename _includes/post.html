@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/themes/prism.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-smalltalk.min.js"></script>
 </head>
 <body>
     <div class="page-header">
@@ -10,14 +13,15 @@
     </div>
     <article>
         <div class="article_body">
-            <p><strong>Description:</strong> {{ page.description }}</p>
+            <p><strong>Icon:</strong> <img src="data:image/png;base64,{{ page.icon }}" alt="{{ page.title }} icon" style="width:16px;height:16px;"/></p>            
             <p><strong>Homepage:</strong> <a href="{{ page.homepage }}">{{ page.homepage }}</a></p>
-            <p><strong>Category:</strong> {{ page.category }}</p>
+            <p><strong>Category:</strong> {{ page.category }}</p>            
             <p><strong>Tags:</strong> {{ page.tags }}</p>
             <p><strong>Version:</strong> {{ page.version }}</p>
-            <p><strong>Expression:</strong> {{ page.expression }}</p>
-            <p><strong>Icon:</strong> <img src="data:image/png;base64,{{ page.icon }}" alt="{{ page.title }} icon" style="width:16px;height:16px;"/></p>
-            <hr/>
+            <p><strong>Description:</strong> {{ page.description }}</p>
+            <p><strong>Expression:</strong></p>
+            <pre><code class="language-smalltalk">{{ page.expression }}</code></pre>
+            
             <div>{{ content }}</div>
         </div>
     </article>
