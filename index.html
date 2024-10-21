@@ -67,7 +67,8 @@ tagline:
         <h6 class="card-subtitle mb-2 text-muted">{{ entry.category }}</h6>        
         <p class="card-text">{{ entry.description }}</p>        
         <a href="{{ site.BASE_PATH }}{{ entry.url }}" class="card-link">Details</a> <a href="{{ entry.homepage }}" class="card-link">Homepage</a> 
-        <p class="card-text" style="text-align: right;"><small class="text-muted">{{ entry.date | date: "%B %d, %Y" }}
+        <img src="data:image/png;base64,{{ entry.icon }}" alt="{{ entry.title }} icon" style="width:50px;height:50px;"/>
+        <p class="card-text" style="text-align: right;"><small class="text-muted">{{ entry.date | date: "%B %d, %Y" }}        
       </div>
     </div>         
   {% endfor %}
