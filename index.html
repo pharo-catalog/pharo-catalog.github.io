@@ -61,14 +61,19 @@ tagline:
  
 
   {% for entry in paginator.posts %}
-    <div class="card">
+   <div class="card">
       <div class="card-body">
-        <h3 class="card-title">{{ entry.title }}</h3>
-        <h6 class="card-subtitle mb-2 text-muted">{{ entry.category }}</h6>        
-        <p class="card-text">{{ entry.description }}</p>        
-        <a href="{{ site.BASE_PATH }}{{ entry.url }}" class="card-link">Details</a> <a href="{{ entry.homepage }}" class="card-link">Homepage</a> 
-        <img src="data:image/png;base64,{{ entry.icon }}" alt="{{ entry.title }} icon" style="width:16px;height:16px;"/>
-        <span class="card-text" style="text-align: right;"><small class="text-muted">{{ entry.date | date: "%B %d, %Y" }}</small></span>
+         <h3 class="card-title">{{ entry.title }}</h3>
+         <h6 class="card-subtitle mb-2 text-muted">{{ entry.category }}</h6>
+         <p class="card-text">{{ entry.description }}</p>
+         <img src="data:image/png;base64,{{ entry.icon }}" alt="{{ entry.title }} icon" style="width:16px;height:16px;"/>
+         <div style="display: flex; justify-content: space-between; align-items: center;">
+            <div>
+               <a href="{{ site.BASE_PATH }}{{ entry.url }}" class="card-link">Details</a> 
+               <a href="{{ entry.homepage }}" class="card-link">Homepage</a>
+            </div>
+            <small class="text-muted">{{ entry.date | date: "%B %d, %Y" }}</small>
+         </div>
       </div>
-    </div>         
-  {% endfor %}
+   </div>
+{% endfor %}
