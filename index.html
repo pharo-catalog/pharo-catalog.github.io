@@ -64,8 +64,9 @@ tagline:
     <div class="card">
       <div class="card-body">
         <h3 class="card-title">{{ entry.title }}</h3>
-        <h6 class="card-subtitle mb-2 text-muted">{{ entry.category }}</h6>
+        <h6 class="card-subtitle mb-2 text-muted">{{ entry.category }}</h6>        
         <p class="card-text">{{ entry.description }}</p>
+        <p class="card-text"><small class="text-muted">{{ entry.date | date: "%B %d, %Y" }}</small>
         <a href="{{ site.BASE_PATH }}{{ entry.url }}" class="card-link">Details</a> <a href="{{ entry.homepage }}" class="card-link">Homepage</a> 
       </div>
     </div>         
