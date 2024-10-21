@@ -2,7 +2,7 @@
 layout: post
 title: "Atomic"
 homepage: "https://github.com/grpistoia/Atomic"
-category: [Games]
+category: [Games, Fun]
 tags: [game, fun]
 description: Atomic v3 - Pharo game
 version: [Pharo 10]
