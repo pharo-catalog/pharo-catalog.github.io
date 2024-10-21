@@ -1,9 +1,25 @@
-<div class="page-header">
-    <h1>{{ page.title }}</h1>
-</div>
-      
-<article>
-    <div class="article_body">
-        {{ content }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <div class="page-header">
+        <h1>{{ page.title }}</h1>
     </div>
-</article>
+    <article>
+        <div class="article_body">
+            <p><strong>Description:</strong> {{ page.description }}</p>
+            <p><strong>Homepage:</strong> <a href="{{ page.homepage }}">{{ page.homepage }}</a></p>
+            <p><strong>Category:</strong> {{ page.category }}</p>
+            <p><strong>Tags:</strong> {{ page.tags }}</p>
+            <p><strong>Version:</strong> {{ page.version }}</p>
+            <p><strong>Expression:</strong> {{ page.expression }}</p>
+            <p><strong>Icon:</strong> <img src="data:image/png;base64,{{ page.icon }}" alt="{{ page.title }} icon" style="width:16px;height:16px;"/></p>
+            <hr/>
+            <div>{{ content }}</div>
+        </div>
+    </article>
+</body>
+</html>
