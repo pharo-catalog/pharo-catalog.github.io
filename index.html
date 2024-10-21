@@ -65,10 +65,10 @@ tagline:
       <div class="card-body">
          <h3 class="card-title">{{ entry.title }}</h3>
          <h6 class="card-subtitle mb-2 text-muted">{{ entry.category }}</h6>
-         <p class="card-text">{{ entry.description }}</p>
-         <img src="data:image/png;base64,{{ entry.icon }}" alt="{{ entry.title }} icon" style="width:16px;height:16px;"/>
+         <p class="card-text">{{ entry.description }}</p>         
          <div style="display: flex; justify-content: space-between; align-items: center;">
             <div>
+               <img src="data:image/png;base64,{{ entry.icon }}" alt="{{ entry.title }} icon" style="width:16px;height:16px;"/>&nbsp;
                <a href="{{ site.BASE_PATH }}{{ entry.url }}" class="card-link">Details</a> 
                <a href="{{ entry.homepage }}" class="card-link">Homepage</a>
             </div>
